@@ -1,0 +1,3 @@
+[submodule "themes/Natrium"]
+	path = themes/Natrium
+	url = https://github.com/mobybit/hugo-natrium-theme.git
