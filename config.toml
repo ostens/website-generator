@@ -1,6 +1,6 @@
 baseURL = "https://ostens.github.io/"
 languageCode = "en-us"
-title = "Natrium Theme"
+title = "Geocoding"
 theme = "Natrium"
 preserveTaxonomyNames = true
 rssLimit = 10
@@ -32,7 +32,8 @@ pygmentsStyle = "native"
     weight = -130
 
 [params]
-    description = "description"
+	indexTitle = "Geocoding" 
+    description = "My scratchpad for all things Geospatial."
 
     [params.logo]
     url = "logo.png"
