@@ -1,6 +1,6 @@
 baseURL = "https://ostens.github.io/"
 languageCode = "en-us"
-title = "Geocoding"
+title = "Erin Austin"
 theme = "Natrium"
 preserveTaxonomyNames = true
 rssLimit = 10
@@ -32,8 +32,8 @@ pygmentsStyle = "native"
     weight = -130
 
 [params]
-	indexTitle = "Geocoding" 
-    description = "My scratchpad for all things Geospatial."
+	indexTitle = "Erin Austin" 
+    description = "My scratchpad as a novice coder (currently messing about with OSGeo4W in my geospatial work)."
 
     [params.logo]
     url = "logo.png"
