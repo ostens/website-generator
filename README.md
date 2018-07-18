@@ -32,3 +32,5 @@ git commit -m "comment"
 ```bash
 git push
 ```
+
+Remember that this will only update the website repository and not the website generator repository! cd to the quickstart folder and repeat steps that were done in the public folder (the web repository).
