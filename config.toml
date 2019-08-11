@@ -33,7 +33,7 @@ pygmentsStyle = "native"
 
 [params]
 	indexTitle = "Erin Austin" 
-    description = "My scratchpad as a novice coder (currently messing about with OSGeo4W in my geospatial work)."
+    description = ""
 
     [params.logo]
     url = "logo.png"
