@@ -1,3 +1,7 @@
 [submodule "themes/Natrium"]
 	path = themes/Natrium
 	url = https://github.com/mobybit/hugo-natrium-theme.git
+
+[submodule "public"]
+	path = public
+	url = git@github.com:ostens/ostens.github.io.git
