@@ -4,6 +4,4 @@ date = "2018-02-09"
 +++
 
 # Erin Austin
-<img src="/images/erin.jpeg" align="right" width="300" style="padding-left:20px;padding-top:10px;padding-bottom:20px;"> Following graduating with a BSc in Physics from the University of St Andrews in 2016 and a few years working with geospatial data and navigation apps as a product owner, I am now moving into the world of software development as a Graduate Test Engineer for [Scott Logic](//www.scottlogic.com/) in Newcastle.
-
-This is my personal blog where I post sporadically about solutions to problems I've found particularly challenging. Feel free to visit my [github](//github.com/ostens) or contact me via [email](mailto:erinjayaustin@gmail.com).
+<p align="left"><img src="/images/erin.jpeg" align="left" width="300" style="padding-right:20px;padding-top:10px;padding-bottom:20px;"> Following a BSc (hons) in Physics from the University of St Andrews, I started working at Imray, Laurie, Norie & WIlson as a digital product coordinator, which involved everything from product ownership of iOS and Android apps, to geospatial data processing, to product support. </p> I wanted to explore more technical pursuits and moved to the North East where I started working as a Software Test Engineer, before moving to a new company specialising in accounting software and moving back to a product owner role. Determined this time to get back to what I love the most, I'm embarking on a software development bootcamp at Northcoders. I'm hoping to continue to add sporadic posts here about what I learn!
